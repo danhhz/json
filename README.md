@@ -1,4 +1,5 @@
 [![GoDoc](https://godoc.org/gopkg.in/paperstreet/json.v0?status.svg)](https://godoc.org/gopkg.in/paperstreet/json.v0)
+[![Build Status](https://travis-ci.org/paperstreet/json.svg?branch=master)](https://travis-ci.org/paperstreet/json)
 
 # json
 Streaming json encoding in Go. I'm still not completely happy with the api, so
